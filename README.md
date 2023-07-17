@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm fujishiro</h1>
-<h3 align="center">A passionate backend developer from Japan</h3>
+<h1 align="left">Hi 👋, I'm fujishiro</h1>
+<h3 align="left">A passionate backend developer from Japan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fjsho&label=Profile%20views&color=0e75b6&style=flat" alt="fjsho" /> </p>
 
@@ -7,9 +7,14 @@
 
 - 📝 I regularly write articles on [https://zenn.dev/fujishiro](https://zenn.dev/fujishiro)
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/fujishiro380" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fujishiro380" height="30" width="40" /></a>
+<a href="/https://zenn.dev/fujishiro/feed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://zenn.dev/fujishiro/feed" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
