@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Kotlin, SpringBoot, Ktor**
 
-- 📝 I regularly write articles on [https://zenn.dev/fujishiro](https://zenn.dev/fujishiro)
+- 📝 I regularly write articles on [zenn](https://zenn.dev/fujishiro) or [Qiita](https://qiita.com/fujishiro380)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
