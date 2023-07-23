@@ -11,4 +11,4 @@ jobs:
             - uses: gautamkrishnar/blog-post-workflow@master
               with: 
                 max_post_count: "4"
-                feed_list: "https://zenn.dev/fujishiro/feed, https://qiita.com/fujishiro380/feed"
+                feed_list: "https://zenn.dev/fujishiro/feed,https://qiita.com/fujishiro380/feed"
