@@ -9,10 +9,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [【IntelliJ】`import java.util.UUID`が自動でワイルドカード化（`java.util.*`）されないようにする](https://zenn.dev/fujishiro/articles/8f7c79d02f4b53)
-- [【MySQL8.0】0件のCOUNT結果を取得するには？〜GROUP BYの挙動から考える〜](https://zenn.dev/fujishiro/articles/d1301fce1f51b0)
-- [【MySQL8.0】DELETE文やUPDATE文で件数を指定したい](https://zenn.dev/fujishiro/articles/4fd87e0325e569)
-- [【対処ログ】`WARNING: REMOTE HOST IDENTIFICATION HAS CHANGED!`があらわれた！](https://zenn.dev/fujishiro/articles/01d7666d126c64)
+- [【面接質問集】30代/未経験/元公務員がエンジニア転職でいただいた質問まとめ【2022年】](https://qiita.com/fujishiro380/items/f8f62ac0db53d16b12a8)
+- [【初心者向け】MySQL環境のLaravelアプリをHerokuにデプロイするまで【Laravel8・Heroku・JawsDB】](https://qiita.com/fujishiro380/items/e2dd3b7682b140551e85)
+- [【作業ログ】Laravel9のインストールからTailwind CSSの導入までの流れ](https://qiita.com/fujishiro380/items/13affd8256ec4cb75541)
+- [実務未経験の初学者がAWS認定SAAに合格するまでにやったこと。](https://qiita.com/fujishiro380/items/ca6905dd34e4621eeec3)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
