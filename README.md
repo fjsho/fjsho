@@ -9,10 +9,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [2024年の振り返りと2025年の目標](https://qiita.com/fujishiro380/items/9ccefff939d331f1b3dd)
 - [去年の振り返りもまだだけど、2024年の目標を宣言する（睡眠時間確保）](https://qiita.com/fujishiro380/items/81987a3d7734e15df826)
 - [【IntelliJ】`import java.util.UUID`が自動でワイルドカード化（`java.util.*`）されないようにする](https://zenn.dev/fujishiro/articles/8f7c79d02f4b53)
 - [【MySQL8.0】0件のCOUNT結果を取得するには？〜GROUP BYの挙動から考える〜](https://zenn.dev/fujishiro/articles/d1301fce1f51b0)
-- [【MySQL8.0】DELETE文やUPDATE文で件数を指定したい](https://zenn.dev/fujishiro/articles/4fd87e0325e569)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
