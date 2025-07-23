@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fjsho&label=Profile%20views&color=0e75b6&style=flat" alt="fjsho" /> </p>
 
-- 🌱 I’m currently learning **Kotlin, SpringBoot, Ktor**
+- 🌱 I’m currently learning **Kotlin, SpringBoot**
 
 - 📝 I regularly write articles on [zenn](https://zenn.dev/fujishiro) or [Qiita](https://qiita.com/fujishiro380)
 
